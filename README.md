@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
 
 ### 🌱 Currently learning
-- To build a full-stack application in Typescript
+- Bulding full-stack applications in Typescript
