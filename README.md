@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋,
+### 👋 Hi ,
 I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
 
 ### 🌱 Currently learning
