@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Daníel Jóhannson 👋
-I'm a Computer Science and Engineering student with a passion for technology and entreprenuership.
+I'm a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
 
-## 🚀 Skills
-- **Languages**: Java, Python, JavaScript
-- **Frameworks**: React, Node.js, Spring
-- **Tools**: Docker, Intellij, Git, 
-
-## 🌱 Currently Building
-- OneJob, a job application service where the job search is flipped.
+## 🌱 Currently learning
+- Building a full-stack application in Typescript
