@@ -22,5 +22,3 @@ I'm a Computer Science and Engineering student with a passion for technology and
 
 ## 🌱 Currently Building
 - OneJob, a job application service where the job search is flipped.
-
-![Visitor Count](https://komarev.com/ghpvc/?username=danieljohannsson)
