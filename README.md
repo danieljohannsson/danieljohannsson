@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **danieljohannsson/danieljohannsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Daníel Jóhannson 👋
+I'm a Computer Science and Engineering student with a passion for technology and entreprenuership.
+
+## 🚀 Skills
+- **Languages**: Java, Python, JavaScript
+- **Frameworks**: React, Node.js, Spring
+- **Tools**: Docker, Intellij, Git, 
+
+## 🌱 Currently Building
+- OneJob, a job application service where the job search is flipped.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=danieljohannsson)
