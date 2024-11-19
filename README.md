@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi ,
-I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership. 
+I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
 
 ### 🔭 Currently building
 - OneJob, a full-stack application improving the job search process.
