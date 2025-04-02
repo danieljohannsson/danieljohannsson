@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
 
 ### 🔭 Currently building
-- OneJob, a full-stack application improving the job search process.
+- Thesis Project at IKEA, building a computer vision model to detect IKEA products in UGC pictures.
