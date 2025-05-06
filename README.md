@@ -17,3 +17,4 @@ I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with 
 
 ### 🔭 Currently building
 - Thesis Project at IKEA, building a computer vision model to detect IKEA products in UGC pictures.
+- stock-rec, a stock recommendation app for retail investors.
