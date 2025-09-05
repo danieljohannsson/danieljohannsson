@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi ,
-I'm Daníel Jóhannsson, a Computer Science and Engineering student at LTH with a passion for technology and entreprenuership.
+I'm Daníel Jóhannsson, a passionate Software Engineer at ____ with a passion for technology and entreprenuership.
 
 ### 🔭 Currently building
-- Thesis Project at IKEA, building a computer vision model to detect IKEA products in UGC pictures.
 - stock-rec, a stock recommendation app for retail investors.
