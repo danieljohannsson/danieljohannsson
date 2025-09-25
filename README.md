@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi ,
-I'm Daníel Jóhannsson, a passionate Software Engineer at ____ with a passion for technology and entreprenuership.
+I'm Daníel Jóhannsson, a passionate Software Engineer at _TBA_ with a passion for technology and entreprenuership.
 
 ### 🔭 Currently building
 - stock-rec, a stock recommendation app for retail investors.
