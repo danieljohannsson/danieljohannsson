@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 I'm Daníel Jóhannsson, a passionate Software Engineer at _TBA_ with a passion for technology and entreprenuership.
 
 ### 🔭 Currently building
-- stock-rec, a stock recommendation app for retail investors.
+- stock-screen, a stock screener/recommendation app for retail investors.
+- https://stock-screen.com/
