@@ -17,4 +17,4 @@ I'm Daníel Jóhannsson, a passionate Software Engineer at _TBA_ with a passion 
 
 ### 🔭 Currently building
 - stock-screen, a stock screener/recommendation app for retail investors.
-- https://stock-screen.com/
+- https://stock-rec.netlify.app/
