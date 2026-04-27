@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 
-Hi ,
+### Hi 👋,
 I'm Daníel Jóhannsson, a Software Engineer at Netlight with a passion for technology and entreprenuership.
 
