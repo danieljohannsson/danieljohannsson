@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 ### Hi ,
 I'm Daníel Jóhannsson, a Software Engineer at Netlight with a passion for technology and entreprenuership.
 
-### 🔭 Currently building
-- stock-screen, a stock screener/recommendation app for retail investors.
-- https://stock-rec.netlify.app/
-- https://stock-screen.com/
